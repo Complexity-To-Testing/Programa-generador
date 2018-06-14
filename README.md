@@ -33,6 +33,6 @@ donde el usuario puede introducir parámetros que determinaran la estructura del
 
 **num_exp_seguida**: establece una serie de expresiones consecutivas. Todas ellas son asignaciones a variables (simples o en las que haya que realizar alguna operación matemática, como por ejemplo multiplicar dos números).
 
-**num_tests**: indica el número de tests que se generan. Los tests generados tienen un número asociado y, a medida que se incrementa el valor asociado, la cobertura de código [27] aumenta.
+**num_tests**: indica el número de tests que se generan. Los tests generados tienen un número asociado y, a medida que se incrementa el valor asociado, la cobertura de código aumenta.
 
 **aleatorio**: indica si se desea que la estructura (e.d. los parámetros) se establezcan de forma aleatoria.
