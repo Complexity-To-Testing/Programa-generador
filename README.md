@@ -4,6 +4,8 @@
 Programa java utilizado durante el proyecto para generar programas con sus respectivos tests
 donde el usuario puede introducir parámetros que determinaran la estructura del programa generado.
 
+El objetivo es realizar experimentos para detectar qué características de los programas tienen un mayor impacto en la CT (Complejidad de Testing) al aplicar pruebas. Concretamente, se trata de identificar cómo varía la CT cuando aplicamos las pruebas sobre programas con distintas estructuras (e.g. variación en el número de condiciones de bifurcación, nivel de anidamiento, iteración en los bucles, etc.) y diferentes errores producidos en ellas.
+
 ## Parámetros del programa
 **anidaciónIf**: número entero que indica el nivel de anidación en una condición if. Para un valor de 1, obtenemos un solo if. Para un valor 2, obtenemos dos if, uno dentro de otro. Y así para cualquier n.
 
