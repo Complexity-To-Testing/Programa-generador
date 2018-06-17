@@ -1,7 +1,7 @@
 # Programa-generador
 
 ## Descripción
-Programa java utilizado durante el proyecto para generar programas con sus respectivos tests
+Este repositorio contiene el programa Java utilizado durante el proyecto para generar programas con sus respectivos tests,
 donde el usuario puede introducir parámetros que determinaran la estructura del programa generado.
 
 El objetivo es realizar experimentos para detectar qué características de los programas tienen un mayor impacto en la CT (Complejidad de Testing) al aplicar pruebas. Concretamente, se trata de identificar cómo varía la CT cuando aplicamos las pruebas sobre programas con distintas estructuras (e.g. variación en el número de condiciones de bifurcación, nivel de anidamiento, iteración en los bucles, etc.) y diferentes errores producidos en ellas.
